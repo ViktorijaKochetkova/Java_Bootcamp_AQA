@@ -1,4 +1,4 @@
-package org.example;
+package module3;
 
 public class FindInArray {
     public static void main(String[] args) {

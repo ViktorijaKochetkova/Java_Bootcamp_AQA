@@ -1,4 +1,4 @@
-package org.example;
+package module2;
 
 public class FindLargest {
     public static void main(String[] args) {

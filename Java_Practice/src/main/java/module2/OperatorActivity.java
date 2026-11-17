@@ -1,4 +1,4 @@
-package org.example;
+package module2;
 
 public class OperatorActivity {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sef.module4.activity;
+package module4;
 
 public class CalculatorClient {
     public static void main(String[] args) {

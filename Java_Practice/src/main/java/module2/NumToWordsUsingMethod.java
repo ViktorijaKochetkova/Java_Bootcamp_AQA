@@ -1,10 +1,15 @@
-package org.example;
+package module2;
 
-public class NumToWords {
+public class NumToWordsUsingMethod {
     public static void main(String[] args) {
-        int a = 5;
+        int num = 5;
 
-        switch (a) {
+        printWord(num);
+    }
+
+    public static void printWord(int num) {
+
+        switch (num) {
             case 1:
                 System.out.println("One");
                 break;
